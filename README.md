@@ -1,6 +1,6 @@
 <div align="center">
 
-# Editor.io
+# editor.io
 
 </div>
 
